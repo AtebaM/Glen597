@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  C++
 - 💞️ I’m looking to collaborate on c++ projects
 - 📫 How to reach me 
-- benoitmbole4@gmx.de
+- benoitmbole4@gmail.com
 
 <!---
 Glen597/Glen597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
